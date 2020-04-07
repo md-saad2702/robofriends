@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Doctor Terror Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Doctor Terror Regular'), url('Doctor Terror.woff') format('woff');
+}
+
+h1{
+	font-family: 'Doctor Terror Regular';
+	font-weight: normal;
+	font-size: 42px;
+}
